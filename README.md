@@ -1,4 +1,4 @@
-# Sponsor-Page
+# 请我喝咖啡
 
 知识无价，创作不易，如果你觉得作者提供的内容对你有帮助，欢迎请我喝咖啡！
 
@@ -6,17 +6,17 @@
 
 ---
 
-## [Simple](https://kaiyuan.github.io/sponsor-page/simple/)
+## [微信支付](https://github.com/cooler112/sponsor-page-master)
 
 ![微信支持](./simple/images/weixin.png)
 
 ---
 
-## [Drinks](https://kaiyuan.github.io/sponsor-page/drinks/)
+## [支付宝支付](https://github.com/cooler112/sponsor-page-master)
 ![支付宝支持](./simple/images/zhifubao.png)
 
 ---
 
-### License
+### 许可证书
 
 Released under the MIT license.
