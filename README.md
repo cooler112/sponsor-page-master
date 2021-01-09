@@ -17,6 +17,6 @@
 
 ---
 
-### 许可证书
+### 许可
 
-Released under the MIT license.
+在MIT下发布
